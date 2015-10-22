@@ -1,0 +1,330 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<?xml version=\"1.0\"?>\n\n	<buses rt=\"22\">\n\n		<time>7:21 AM</time>\n\n\n		<bus>\n			<id>1891</id>    \n			<rt>22</rt>\n			<rtdd>22</rtdd>\n			\n			<d>North Bound</d>\n			<dd>Northbound</dd>\n			<dn>NNW</dn>\n			<lat>41.872909008617135</lat>\n			<lon>-87.62909021511884</lon>\n			<pid>3932</pid>\n			<pd>Northbound</pd>\n			<run>P280</run>\n			<fs>Howard</fs>\n			<op>54934</op>\n			<dip>1272</dip>\n			<bid>248007661</bid>\n			<wid1>0P</wid1>\n			<wid2>280</wid2>            	\n		</bus>\n\n\n\n		<bus>\n			<id>4365</id>    \n			<rt>22</rt>\n			<rtdd>22</rtdd>\n			\n			<d>South Bound</d>\n			<dd>Southbound</dd>\n			<dn>SSE</dn>\n			<lat>41.96328608194987</lat>\n			<lon>-87.66628597093666</lon>\n			<pid>3929</pid>\n			<pd>Southbound</pd>\n			<run>P619</run>\n			<fs>Harrison</fs>\n			<op>43157</op>\n			<dip>4699</dip>\n			<bid>248007559</bid>\n			<wid1>0P</wid1>\n			<wid2>619</wid2>            	\n		</bus>\n\n\n\n		<bus>\n			<id>4367</id>    \n			<rt>22</rt>\n			<rtdd>22</rtdd>\n			\n			<d>South Bound</d>\n			<dd>Southbound</dd>\n			<dn>SSE</dn>\n			<lat>42.00947979518345</lat>\n			<lon>-87.67408752441406</lon>\n			<pid>3936</pid>\n			<pd>Southbound</pd>\n			<run>P204</run>\n			<fs>Harrison</fs>\n			<op>39039</op>\n			<dip>4821</dip>\n			<bid>248007596</bid>\n			<wid1>0P</wid1>\n			<wid2>204</wid2>            	\n		</bus>\n\n\n\n		<bus>\n			<id>4359</id>    \n			<rt>22</rt>\n			<rtdd>22</rtdd>\n			\n			<d>North Bound</d>\n			<dd>Northbound</dd>\n			<dn>N</dn>\n			<lat>41.89179925751268</lat>\n			<lon>-87.6297836303711</lon>\n			<pid>3932</pid>\n			<pd>Northbound</pd>\n			<run>P219</run>\n			<fs>Howard</fs>\n			<op>40403</op>\n			<dip>8228</dip>\n			<bid>248007618</bid>\n			<wid1>0P</wid1>\n			<wid2>219</wid2>            	\n		</bus>\n\n\n\n		<bus>\n			<id>1883</id>    \n			<rt>22</rt>\n			<rtdd>22</rtdd>\n			\n			<d>South Bound</d>\n			<dd>Southbound</dd>\n			<dn>S</dn>\n			<lat>41.99033422318716</lat>\n			<lon>-87.67015063573443</lon>\n			<pid>3936</pid>\n			<pd>Southbound</pd>\n			<run>P217</run>\n			<fs>Harrison</fs>\n			<op>39100</op>\n			<dip>11914</dip>\n			<bid>248007616</bid>\n			<wid1>0P</wid1>\n			<wid2>217</wid2>            	\n		</bus>\n\n\n\n		<bus>\n			<id>4168</id>    \n			<rt>22</rt>\n			<rtdd>22</rtdd>\n			\n			<d>North Bound</d>\n			<dd>Northbound</dd>\n			<dn>N</dn>\n			<lat>41.9037119547526</lat>\n			<lon>-87.63126881917317</lon>\n			<pid>3932</pid>\n			<pd>Northbound</pd>\n			<run>P212</run>\n			<fs>Howard</fs>\n			<op>45203</op>\n			<dip>12884</dip>\n			<bid>248007617</bid>\n			<wid1>0P</wid1>\n			<wid2>212</wid2>            	\n		</bus>\n\n\n\n		<bus>\n			<id>4169</id>    \n			<rt>22</rt>\n			<rtdd>22</rtdd>\n			\n			<d>South Bound</d>\n			<dd>Southbound</dd>\n			<dn>S</dn>\n			<lat>41.979340362548825</lat>\n			<lon>-87.6683349609375</lon>\n			<pid>3936</pid>\n			<pd>Southbound</pd>\n			<run>P203</run>\n			<fs>Harrison</fs>\n			<op>38836</op>\n			<dip>15907</dip>\n			<bid>248007668</bid>\n			<wid1>0P</wid1>\n			<wid2>203</wid2>            	\n		</bus>\n\n\n\n		<bus>\n			<id>1745</id>    \n			<rt>22</rt>\n			<rtdd>22</rtdd>\n			\n			<d>South Bound</d>\n			<dd>Southbound</dd>\n			<dn>S</dn>\n			<lat>41.96151527525887</lat>\n			<lon>-87.66589561341301</lon>\n			<pid>3936</pid>\n			<pd>Southbound</pd>\n			<run>P214</run>\n			<fs>Harrison</fs>\n			<op>51834</op>\n			<dip>22348</dip>\n			<bid>248007582</bid>\n			<wid1>0P</wid1>\n			<wid2>214</wid2>            	\n		</bus>\n\n\n\n		<bus>\n			<id>1780</id>    \n			<rt>22</rt>\n			<rtdd>22</rtdd>\n			\n			<d>South Bound</d>\n			<dd>Southbound</dd>\n			<dn>S</dn>\n			<lat>41.90916072621065</lat>\n			<lon>-87.6315689086914</lon>\n			<pid>3929</pid>\n			<pd>Southbound</pd>\n			<run>P009</run>\n			<fs>Harrison</fs>\n			<op>44753</op>\n			<dip>26695</dip>\n			<bid>248007625</bid>\n			<wid1>0P</wid1>\n			<wid2>009</wid2>            	\n		</bus>\n\n\n\n		<bus>\n			<id>4335</id>    \n			<rt>22</rt>\n			<rtdd>22</rtdd>\n			\n			<d>South Bound</d>\n			<dd>Southbound</dd>\n			<dn>SSE</dn>\n			<lat>41.88611672141335</lat>\n			<lon>-87.63095231489702</lon>\n			<pid>3929</pid>\n			<pd>Southbound</pd>\n			<run>P509</run>\n			<fs>Harrison</fs>\n			<op>39210</op>\n			<dip>35183</dip>\n			<bid>248007576</bid>\n			<wid1>0P</wid1>\n			<wid2>509</wid2>            	\n		</bus>\n\n\n\n		<bus>\n			<id>4334</id>    \n			<rt>22</rt>\n			<rtdd>22</rtdd>\n			\n			<d>South Bound</d>\n			<dd>Southbound</dd>\n			<dn>S</dn>\n			<lat>41.87865175519671</lat>\n			<lon>-87.63071114676339</lon>\n			<pid>3929</pid>\n			<pd>Southbound</pd>\n			<run>P510</run>\n			<fs>Harrison</fs>\n			<op>39907</op>\n			<dip>37874</dip>\n			<bid>248007603</bid>\n			<wid1>0P</wid1>\n			<wid2>510</wid2>            	\n		</bus>\n\n\n\n		<bus>\n			<id>4151</id>    \n			<rt>22</rt>\n			<rtdd>22</rtdd>\n			\n			<d>South Bound</d>\n			<dd>Southbound</dd>\n			<dn>S</dn>\n			<lat>41.90387987734667</lat>\n			<lon>-87.63151869133337</lon>\n			<pid>3936</pid>\n			<pd>Southbound</pd>\n			<run>P202</run>\n			<fs>Harrison</fs>\n			<op>29659</op>\n			<dip>45648</dip>\n			<bid>248007503</bid>\n			<wid1>0P</wid1>\n			<wid2>202</wid2>            	\n		</bus>\n\n\n\n		<bus>\n			<id>4321</id>    \n			<rt>22</rt>\n			<rtdd>22</rtdd>\n			\n			<d>North Bound</d>\n			<dd>Northbound</dd>\n			<dn>NNW</dn>\n			<lat>42.00159454345703</lat>\n			<lon>-87.67171478271484</lon>\n			<pid>3932</pid>\n			<pd>Northbound</pd>\n			<run>P201</run>\n			<fs>Howard</fs>\n			<op>33756</op>\n			<dip>51184</dip>\n			<bid>248007648</bid>\n			<wid1>0P</wid1>\n			<wid2>201</wid2>            	\n		</bus>\n\n\n\n		<bus>\n			<id>4161</id>    \n			<rt>22</rt>\n			<rtdd>22</rtdd>\n			\n			<d>North Bound</d>\n			<dd>Northbound</dd>\n			<dn>N</dn>\n			<lat>42.01862335205078</lat>\n			<lon>-87.67300415039062</lon>\n			<pid>3932</pid>\n			<pd>Northbound</pd>\n			<run>P207</run>\n			<fs>Howard</fs>\n			<op>39911</op>\n			<dip>57735</dip>\n			<bid>248007529</bid>\n			<wid1>0P</wid1>\n			<wid2>207</wid2>            	\n		</bus>\n\n\n\n	</buses>\n",
+			"file": "PdaBus.xml",
+			"file_size": 5986,
+			"file_write_time": 130894848628981310,
+			"settings":
+			{
+				"buffer_size": 5656,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "BusTracker.py",
+			"settings":
+			{
+				"buffer_size": 186,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pda.xml",
+			"settings":
+			{
+				"buffer_size": 6874,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 16,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/pdyachen/Google Диск/Learn/Python/DataHack/Code/PubliDataHack"
+	],
+	"file_history":
+	[
+		"/C/Users/pdyachen/Google Диск/Learn/Python/DataHack/Code/PubliDataHack/PdaGitTest.sql",
+		"/C/Users/pdyachen/Desktop/pda.html",
+		"/C/Users/pdyachen/Google Диск/Work/Clients/MicroSoft/license.txt",
+		"/C/Users/pdyachen/Desktop/ANY_201221060029.lic_production",
+		"/C/Users/pdyachen/Desktop/KONDOR.properties_backupserver"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"strong",
+			"div",
+			"form",
+			"A001"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"a",
+			"strong",
+			"div"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "PdaBus.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5656,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								205,
+								220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1182.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "BusTracker.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pda.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6874,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "README.md",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 16,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "SubLimeProject.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
